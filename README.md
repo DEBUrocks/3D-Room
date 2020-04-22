@@ -9,9 +9,13 @@ Made By:
 Debmeet Banerjee 2018A7PS0385H
 Anirudh Sood 2018A7PS0673H
 Sri Chand Gamguri 2017A7PS0272H
+
+
 Procedure:
 
+
 To make this Project, I used the freeGLUT library: http://freeglut.sourceforge.net/, which I also used in Assignment 1. I worked on the Ubuntu terminal and used the gedit text editor. The scene consists of two rooms and some 3D objects placed in them. Some of the 3D objects are made using Blender and the rest are made using predefined functions for cube, torus, teapot etc. The objects have been transformed(scaled, translated, rotated) so that the overall scene looks good and sensible.
+
 
 Issues Faced While Doing the Assignment
 
@@ -29,7 +33,9 @@ When I enabled lighting, my scene looked horrible, some objects were not visible
 
 Understanding Blender tools
 
-As I was using Blender for the first time, I had no idea how to use it. I used the following Youtube tutorials to understand and make my 3D Objects. https://www.youtube.com/watch?v=D6sW1Cezi5o
+As I was using Blender for the first time, I had no idea how to use it. I used the following Youtube tutorials to understand and make my 3D Objects.
+
+https://www.youtube.com/watch?v=D6sW1Cezi5o
 
 https://www.youtube.com/watch?v=mbs0nMeMvXw
 
@@ -56,8 +62,11 @@ This was by far the most difficult thing to do. Majority of my assingment time w
 Other Places from where I took Help:
 
 https://nehe.gamedev.net/
+
 http://www.opengl-tutorial.org/
+
 https://learnopengl.com/
+
 Compiling and Running
 
 First of all you need to install GLUT: In the linux terminal run the following command:
