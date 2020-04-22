@@ -1,11 +1,3 @@
-@mainpage Results, Issues and Analysis
->Made By:
-
-1. Debmeet Banerjee     2018A7PS0385H
-2. Anirudh Sood         2018A7PS0673H
-3. Sri Chand Gamguri    2017A7PS0272H
-
----
 >Procedure:
 
 To make this Project, I used the freeGLUT library: http://freeglut.sourceforge.net/, which I also used in Assignment 1. I worked on the Ubuntu terminal and used the gedit text editor. The scene consists of two rooms and some 3D objects placed in them. Some of the 3D objects are made using Blender and the rest are made using predefined functions for cube, torus, teapot etc. The objects have been transformed(scaled, translated, rotated) so that the overall scene looks good and sensible.
