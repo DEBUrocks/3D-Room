@@ -1,0 +1,10 @@
+g++ main.cpp objects.cpp blenderObjects.cpp -lglut -lGL -lGLU
+
+
+https://www.youtube.com/watch?v=D6sW1Cezi5o
+
+https://www.youtube.com/watch?v=mbs0nMeMvXw
+
+https://www.youtube.com/watch?v=sT984LP_kz4
+
+https://www.youtube.com/watch?v=y93V2nIDdaE
