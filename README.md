@@ -4,6 +4,10 @@ To make this Project, I used the freeGLUT library: http://freeglut.sourceforge.n
 
 ---
 
+Do check out :https://github.com/AbdullahKady/3d-house-scene from where I took inspiration
+
+---
+
 >Issues Faced While Doing the Assignment
 
 1. Working with 3D was not easy in the beginning
